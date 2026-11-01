@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NEieMvqwnZg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\Desktop\\Utcn\\Practice\\WebScrapper\\WebScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\anglesharp\\1.8.1\\anglesharp.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

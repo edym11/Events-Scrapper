@@ -1,0 +1,17 @@
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\WebScrapper.exe
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\WebScrapper.deps.json
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\WebScrapper.runtimeconfig.json
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\WebScrapper.dll
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\WebScrapper.pdb
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\bin\Debug\net10.0\AngleSharp.dll
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrap.373E154B.Up2Date
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.dll
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\refint\WebScrapper.dll
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.pdb
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\WebScrapper.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Utcn\Practice\WebScrapper\obj\Debug\net10.0\ref\WebScrapper.dll
